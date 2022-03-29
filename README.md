@@ -1,5 +1,5 @@
 ### Olá, me chamo José Vitor
-<h4>Estou atualmente trabalhando como desenvolvedor de sistemas, e sou responsável pelas seguintes tarefas:</h4>
+<h4>Estou atualmente trabalhando como desenvolvedor de software, e sou responsável pelas seguintes tarefas:</h4>
 
 - 🌱 Extração e inserção de dados em aplicações
 - 👯 Analise e Testes de segurança nas aplicações recém desenvolvidas
