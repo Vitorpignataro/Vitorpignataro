@@ -7,7 +7,7 @@
 - 💬 Desenvolvimentos de Bots / Bot development
 - ⚡ Ajustes e correção de códigos / Fix and improve code
 
-### Portifólios / Projects
+### Portfólios / Projects
 <div>
  - <a href="https://github.com/Vitorpignataro/Projetos-HTML-CSS">HTML-5 & CSS-3</a>
 </div>
