@@ -5,7 +5,7 @@
 - 👯 Analise e Testes de segurança nas aplicações recém desenvolvidas / Security tests on newly developed systems
 - 🔭 Automação de funções com objetivo de melhorar e agilizar tarefas diárias / Function automation to improve daily tasks
 - 💬 Desenvolvimentos de Bots / Bot development
-- ⚡ Ajustes e correção de códigos / Fix and improve code
+- ⚡ Ajustes e correção de códigos / Fix and code improve
 
 ### Portfólios / Projects
 <div>
