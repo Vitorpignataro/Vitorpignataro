@@ -9,8 +9,8 @@
 
 ### Portfólios / Projects
 <div>
- - <a href="https://github.com/Vitorpignataro/Projetos-HTML-CSS">HTML-5 & CSS-3</a>
-  - <a href="https://github.com/Vitorpignataro/Resume-Jose-Vitor">Curriculum / Resume</a>
+ - <a href="https://github.com/Vitorpignataro/Projetos-HTML-CSS">HTML-5 & CSS-3</a><br>
+ - <a href="https://github.com/Vitorpignataro/Resume-Jose-Vitor">Curriculum / Resume</a>
 </div>
 
 ### Tecnologias / Technologies
