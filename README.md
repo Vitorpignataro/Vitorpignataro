@@ -6,11 +6,13 @@
 - 🔭 Automação de funções com objetivo de melhorar e agilizar tarefas diárias / Function automation to improve daily tasks
 - 💬 Desenvolvimentos de Bots / Bot development
 - ⚡ Ajustes e correção de códigos / Fix and code improve
+- 🍁 Desenvolvimento Front e Back-end / Front and Back-end Development
 
 ### Portfólios / Projects
 <div>
  - <a href="https://github.com/Vitorpignataro/Projetos-HTML-CSS">HTML-5 & CSS-3</a><br>
  - <a href="https://github.com/Vitorpignataro/Resume-Jose-Vitor">Curriculum / Resume</a>
+ - <a href="https://github.com/Vitorpignataro/Recon_Tools">Security Automations</a>
 </div>
 
 ### Tecnologias / Technologies
