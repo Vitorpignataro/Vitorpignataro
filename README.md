@@ -1,12 +1,12 @@
 ### Olá, me chamo José Vitor / Hello, my name is José Vitor
 <h4>Atualmente trabalho em: / Currently working in:</h4>
 
-- 🌱 Extração e inserção de dados em aplicações / Extraction and insertion data in applications
-- 👯 Analise e Testes de segurança nas aplicações recém desenvolvidas / Security tests on newly developed systems
-- 🔭 Automação de funções com objetivo de melhorar e agilizar tarefas diárias / Function automation to improve daily tasks
-- 💬 Desenvolvimentos de Bots / Bot development
-- ⚡ Ajustes e correção de códigos / Fix and code improve
-- 🍁 Desenvolvimento Front e Back-end / Front and Back-end Development
+- 🌱 Extração e inserção de dados em aplicações / Pentest in Web Applications and Infrastructure
+- 👯 Analise e Testes de segurança nas aplicações recém desenvolvidas / Phishing campaigns
+- 🔭 Automação de funções com objetivo de melhorar e agilizar tarefas diárias / Process automations
+- 💬 Desenvolvimentos de Bots / Awareness campaigns
+- ⚡ Ajustes e correção de códigos / Vulnerability analysis and control
+- 🍁 Desenvolvimento Front e Back-end / Configurations of tools for management of vulnerabilities
 
 ### Portfólios / Projects
 <div>
