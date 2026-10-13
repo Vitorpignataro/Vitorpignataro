@@ -1,50 +1,112 @@
-### Hello, my name is José Vitor
-<h4> Currently working in:</h4>
+# Hi, I'm José Vitor 👋
 
-- 🌱 Web Application Pentesting: Conduct penetration tests on web applications to identify and rectify security vulnerabilities, ensuring the robustness and integrity of the system.
-- 👯 Full Stack Development: Responsible for development across all layers of an application.
-- 🔭 Team Management: Lead and coordinate development teams.
-- 💬 Application Deployment: Execute application deployments efficiently, ensuring a smooth transition from development to production.
-- ⚡ Project Management: Lead the planning, execution, and monitoring of projects, ensuring successful delivery within defined scope, timelines, and budget
-- 🍁 Infrastructure Support: Collaborate on the design and implementation of infrastructure solutions, providing technical support to ensure scalability, security, and optimal system performance.
+**Senior Software Engineer & Tech Lead focused on backend architecture, distributed systems and scalable platforms.**
 
-### Projects
-<div>
- - <a href="https://github.com/Vitorpignataro/Projetos-HTML-CSS">HTML-5 & CSS-3</a><br>
- - <a href="https://github.com/Vitorpignataro/Resume-Jose-Vitor">Curriculum / Resume</a><br>
- - <a href="https://github.com/Vitorpignataro/Recon_Tools">Security Automations</a>
-</div>
+I work at the intersection of **hands-on software engineering and technical leadership**, designing systems, reviewing architecture, solving production problems and helping engineering teams deliver reliable software.
 
-### Technologies
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-plain-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" height="40"/>
-          
-          
-          
-</div>
+My strongest experience is in **Go and PHP/Laravel**, building APIs, asynchronous processing platforms, integrations and data-intensive systems.
 
-### Contact
-<div> 
-  <a href="https://instagram.com/vitor_pignataro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato.josevitorpignataro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-vitor-alves-pignataro-90a475200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://vitorpignataro.github.io/Portfolio-Jose-Vitor/homepage.html" target="https://vitorpignataro.github.io/Portfolio-Jose-Vitor/homepage.html"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
-  <a href="https://dev.to/vitorpignataro" target="https://dev.to/vitorpignataro"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a> 
-</div>
+---
 
+## 👨‍💻 What I work with
+
+### Backend Engineering
+- Go / Golang
+- PHP / Laravel
+- REST APIs
+- Asynchronous processing
+- Distributed systems
+- Microservices
+- System integrations
+
+### Architecture & Scalability
+- Event-driven architectures
+- Queue-based processing
+- High-volume workloads
+- Idempotency and fault tolerance
+- Database modeling and query optimization
+- API and service architecture
+- Legacy modernization
+
+### Infrastructure & Reliability
+- Docker
+- Linux
+- CI/CD
+- AWS / GCP
+- Redis
+- RabbitMQ
+- MySQL / MariaDB / PostgreSQL
+- Prometheus & application observability
+
+### Engineering Leadership
+- Technical planning and architecture decisions
+- Code reviews and engineering standards
+- Mentoring and technical development
+- System design
+- Technical documentation
+- Incident analysis and production troubleshooting
+- Collaboration with product and business stakeholders
+
+---
+
+## 📈 Engineering Impact
+
+Some examples of results I've helped deliver:
+
+- Reduced recurring production incidents by approximately **40%**
+- Improved platform availability by up to **60%**
+- Consolidated **4 independent systems into a single platform**
+- Improved operational efficiency by up to **50%**
+- Reduced infrastructure costs by up to **30%**
+- Led and mentored an engineering team of approximately **8 people**
+
+---
+
+## 🧠 Areas I enjoy working on
+
+I'm especially interested in problems involving:
+
+- Distributed job processing
+- Backend architecture
+- Large-scale data processing
+- Workflow orchestration
+- API design
+- Reliability engineering
+- Observability
+- Developer experience
+- System modernization
+
+I particularly enjoy turning complex or fragile systems into architectures that are **simpler, observable and easier to scale**.
+
+---
+
+## 🏗️ Current Engineering Interests
+
+Recently, I've been working and experimenting with architectures involving:
+
+- Go-based backend services
+- Distributed workers
+- Database-backed job queues
+- Lease / heartbeat processing models
+- Idempotent workflows
+- High-throughput document processing
+- Automated workflows and RPA orchestration
+- Large-scale reporting platforms
+
+---
+
+## 🤝 Leadership Philosophy
+
+I believe strong engineering teams combine:
+
+**technical quality + clear communication + ownership + pragmatic architecture.**
+
+As a Tech Lead, I try to stay close to the code while helping teams make better technical decisions, reduce operational risk and understand the trade-offs behind architecture choices.
+
+---
+
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/jos%C3%A9-vitor-alves-pignataro/)
+
+Open to conversations about **Senior Backend Engineer, Tech Lead and Software Architecture opportunities**, especially remote and international teams.
